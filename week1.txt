@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file week1 ma thui
+=======
+file week1 va main
+>>>>>>> main
